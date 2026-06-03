@@ -1,12 +1,10 @@
 /*NAVBAR*/
 header{
-   /* position: fixed;*/
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     background-color: #1b1b32;
-    /*z-index: 3; */
     width: 100%;
     padding: 1.3rem;
     
